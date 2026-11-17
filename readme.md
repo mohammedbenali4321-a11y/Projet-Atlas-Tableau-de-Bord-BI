@@ -30,11 +30,17 @@ TP_AtlasDistrib/
 ├── README.md                          # Documentation principale du projet (ce fichier)
 └── project_metadata.txt               # Métadonnées du projet en anglais (Auteur, Dates, Version)
 ```
+##  Mes Comptes & Informations Auteur
+
 * **Auteur / Analyste BI :** `[Mohamed BEN ALI]`
 * **Établissement / Formation :** `[CMC-RSK / Module : Concevoir un dashboard]`
-* **Email :** `[Mohamed BEN ALI](mohammedbenali4321@gmail.com)`
-* **LinkedIn :** `[Mohamed BEN ALI](https://www.linkedin.com/in/mohamed-ben-ali-m/)`
-
+* **Email :** [Mohamed BEN ALI](mohammedbenali4321@gmail.com)
+* **Roadmap :** [Mohamed BEN ALI](https://roadmap.sh/u/benalimohamed)
+* **Kaggle :** [mbaitri](https://www.kaggle.com/mbaitri)
+* **LinkedIn :** [Mohamed BEN ALI](https://www.linkedin.com/in/mohamed-ben-ali-m/)
+* **Power BI Service / Portfolio :** [???]
+  
+---
 
 ##  Prérequis et Utilisation
 1. Ouvrir le fichier `AtlasDistrib_NomPrenom.pbix` avec **Power BI Desktop**.
