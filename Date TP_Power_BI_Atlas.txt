@@ -1,0 +1,28 @@
+================================================================================
+PROJECT METADATA & TIMELINE - ATLASDISTRIB BI DASHBOARD
+================================================================================
+
+Project Title   : AtlasDistrib Commercial Dashboard (From Data Cleaning to BI Reporting)
+Course / Module : Business Intelligence - Designing a Dashboard (Beginner to Intermediate)
+Tool Used       : Microsoft Power BI Desktop (Power Query M, DAX, Data Modeling)
+
+--- AUTHOR INFORMATION ---
+Author Name     : Mohamed BEN ALI
+Role            : Junior BI Analyst
+
+--- PROJECT DATES & SCHEDULE ---
+Project Date    : November 17, 2026
+Total Duration  : 12 Hours (Structured in 3 sessions of 4 hours)
+  - Session 1 (4h)   : Data Ingestion, Profiling, and ETL Cleaning (Power Query)
+  - Session 2 (4h)   : Semantic Constellation Modeling & DAX Measures Creation
+  - Session 3 (4h)   : Report Visualization (5 Pages), Filters, and Business Restitution
+
+--- DATA COVERAGE PERIOD ---
+Historical Data : January 1, 2024 – December 31, 2024 (Legacy ERP - CSV)
+Current Data    : January 1, 2025 – December 31, 2025 (New ERP - Excel)
+Currency        : Moroccan Dirham (MAD - Tax Excluded / HT)
+
+--- DELIVERABLES ---
+1. AtlasDistrib_FirstNameLastName.pbix (Interactive Power BI Report)
+2. Analytical_Summary_Report.pdf (Data Cleaning Log, Business Q1-Q7 Answers & Limitations)
+================================================================================
