@@ -29,6 +29,7 @@ TP_AtlasDistrib/
 │
 ├── README.md                          # Documentation principale du projet (ce fichier)
 └── project_metadata.txt               # Métadonnées du projet en anglais (Auteur, Dates, Version)
+
 ```
 ##  Mes Comptes & Informations Auteur
 
