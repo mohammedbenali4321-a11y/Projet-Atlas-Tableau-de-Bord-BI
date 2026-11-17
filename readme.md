@@ -31,7 +31,9 @@ TP_AtlasDistrib/
 └── project_metadata.txt               # Métadonnées du projet en anglais (Auteur, Dates, Version)
 ```
 * **Auteur / Analyste BI :** `[Mohamed BEN ALI]`
-
+* **Établissement / Formation :** `[CMC-RSK / Module : Concevoir un dashboard]`
+* **Email :** `[mohammedbenali4321@gmail.com]`
+* **LinkedIn :** `[https://www.linkedin.com/in/mohamed-ben-ali-m/]`
 
 
 ##  Prérequis et Utilisation
