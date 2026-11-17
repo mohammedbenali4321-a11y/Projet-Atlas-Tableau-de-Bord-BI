@@ -32,8 +32,8 @@ TP_AtlasDistrib/
 ```
 * **Auteur / Analyste BI :** `[Mohamed BEN ALI]`
 * **Établissement / Formation :** `[CMC-RSK / Module : Concevoir un dashboard]`
-* **Email :** `[mohammedbenali4321@gmail.com]`
-* **LinkedIn :** `[https://www.linkedin.com/in/mohamed-ben-ali-m/]`
+* **Email :** `[Mohamed BEN ALI](mohammedbenali4321@gmail.com)`
+* **LinkedIn :** `[Mohamed BEN ALI](https://www.linkedin.com/in/mohamed-ben-ali-m/)`
 
 
 ##  Prérequis et Utilisation
