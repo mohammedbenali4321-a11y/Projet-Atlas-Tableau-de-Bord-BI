@@ -37,7 +37,7 @@ TP_AtlasDistrib/
 * **Établissement / Formation :** CMC-RSK / Module : Concevoir un dashboard
 * **Email :** [Mohamed BEN ALI](mohammedbenali4321@gmail.com)
 * **Roadmap :** [Mohamed BEN ALI](https://roadmap.sh/u/benalimohamed)
-* **Kaggle :** [mbaitri](https://www.kaggle.com/mbaitri)
+* **Kaggle :** [mbaitri](https://www.kaggle.com/mbaitri )
 * **LinkedIn :** [Mohamed BEN ALI](https://www.linkedin.com/in/mohamed-ben-ali-m/)
 * **Power BI Service / Portfolio :** [!!!!]
   
