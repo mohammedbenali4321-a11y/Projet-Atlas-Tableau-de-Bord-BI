@@ -31,7 +31,7 @@ TP_AtlasDistrib/
 └── project_metadata.txt               # Métadonnées du projet en anglais (Auteur, Dates, Version)
 
 ```
-##  Mes Comptes & Informations Auteur
+##  Mes Comptes & Informations Auteur:
 
 * **Auteur / Analyste BI :** Mohamed BEN ALI
 * **Établissement / Formation :** CMC-RSK / Module : Concevoir un dashboard
@@ -47,3 +47,5 @@ TP_AtlasDistrib/
 1. Ouvrir le fichier `AtlasDistrib_NomPrenom.pbix` avec **Power BI Desktop**.
 2. Mettre à jour le paramètre **`DossierDonnees`** dans Power Query (`Accueil > Gérer les paramètres`) avec le chemin local contenant le dossier des sources de données (terminé par `\`).
 3. Cliquer sur **Actualiser** pour exécuter automatiquement toutes les étapes de nettoyage et mettre à jour les visuels.
+
+## le projet est en cours de travaille
