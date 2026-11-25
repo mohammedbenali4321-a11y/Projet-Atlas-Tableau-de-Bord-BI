@@ -39,8 +39,7 @@ TP_AtlasDistrib/
 * **Roadmap :** [Mohamed BEN ALI](https://roadmap.sh/u/benalimohamed)
 * **Kaggle :** [mbaitri](https://www.kaggle.com/mbaitri )
 * **LinkedIn :** [Mohamed BEN ALI](https://www.linkedin.com/in/mohamed-ben-ali-m/)
-* **Power BI Service / Portfolio :** [https://www.linkedin.com/in/mohamed-ben-ali-m/]
-
+* **Power BI Service / Portfolio :** [-----]
 ---
 
 ##  Prérequis et Utilisation
